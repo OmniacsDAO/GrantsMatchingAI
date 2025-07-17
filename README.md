@@ -3,6 +3,10 @@
 > **AI-powered R Shiny application that helps grant reviewers instantly surface the best-matching grants for any free-form query.**
 > It combines R, Python (LangChain + Ollama), Chroma vector store and a slim Shiny UI into a reproducible workflow & Docker image.
 
+![Search Example 1](images/Tab1.png)
+
+![Search Example 2](images/Tab2.png)
+
 ---
 
 ### Table of Contents
